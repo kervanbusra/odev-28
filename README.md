@@ -1,0 +1,1 @@
+odev 28 için oluşturulmuş repo
